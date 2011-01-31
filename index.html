@@ -16,11 +16,14 @@
 	<link rel="stylesheet" href="css/reset.css?v=0" />
 	<link rel="stylesheet" href="css/all.css?v=0" />
 	<script src="js/modernizr-1.6.min.js"></script>
+	<!--[if (gte IE 6)&(lte IE 8)]>
+	<script src="js/selectivizr-1.0.1.min.js"></script>
+	<![endif]-->
 </head>
 <body>
 	<div id="container">
 		<header>
-		
+			
 		</header>
 		<section id="main">
 		
@@ -29,8 +32,20 @@
 		
 		</footer>
 	</div>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.js"></script>
-	<script>!window.jQuery && document.write(unescape('%3Cscript src="js/jquery-1.4.4.min.js"%3E%3C/script%3E'))</script>
-	<script src="js/zee.console.js"></script>
+	<script src="js/yepnope-1.0.min.js"></script>
+	<script type="text/javascript">
+	yepnope([
+		{
+			load: '//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js',
+			callback: {
+				'jquery.min.js': function() {
+					!window.jQuery && yepnope({load: 'js/jquery-1.4.4.min.js'});
+				}
+			},
+			test: window.console,
+			nope: 'js/zee.console.js'
+		}
+	]);
+	</script>
 </body>
 </html>
