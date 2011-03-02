@@ -1,0 +1,56 @@
+/* ZeeTeam */
+
+	Cyril Balit
+	Zee Agency - Directeur Associé
+	Contact : info [at] zeeagency.com
+	Viadeo : www.viadeo.com/fr/profile/cyril.balit-vanderbrouck
+	
+	Philippe Blanc
+	Zee Agency - Directeur Technique Associé
+	Contact : info [at] zeeagency.com
+	Twitter : @feeloow
+	
+	Sébastien Laading
+	Zee Agency - Directeur Créatif Associé
+	Contact : info [at] zeeagency.com
+	Linkedin : www.linkedin.com/in/sebastienlaading
+	
+	Christophe Chandeze
+	Zee Agency - Chef de Projet
+	Myspace : www.myspace.com/atomicnexus6
+	
+	Eric Garnier
+	Zee Agency - Directeur de Clientèle
+	Twitter : @EricGarnier
+	
+	Julien Cabanes
+	Zee Agency - Développeur Sénior
+	
+	Julien Imbert
+	Zee Agency - Directeur Référencement
+	Linkedin : fr.linkedin.com/in/julienimbert
+	
+	Marianne Daboudet
+	Zee Agency - Assistante de Direction
+	Linkedin : fr.linkedin.com/pub/marianne-daboudet/29/933/b51
+	
+	Maxime Sevenet
+	Zee Agency - Intégrateur Web
+	Web : www.maximesevenet.fr
+	
+	Nicolas Riciotti
+	Zee Agency - Graphiste & Développeur multimédia
+	Myspace : www.myspace.com/heypancakemusic
+
+	Romy Béthune
+	Zee Agency - Consultante Junior
+
+	Solène Meyer
+	Zee Agency - Directrice Artistique
+	Myspace : www.myspace.com/solenemusic
+	
+/* ZeeTools */
+	Dernière mise à jour : 2011/XX/XX
+	Doctype : HTML5 & CSS3
+	Langages : PHP / MySQL / jQuery
+	Technologies : Ajax / Flash
