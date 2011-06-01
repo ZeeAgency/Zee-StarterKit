@@ -24,7 +24,7 @@
 	Twitter : @EricGarnier
 	
 	Julien Cabanes
-	Zee Agency - Développeur Sénior
+	Zee Agency - Ingénieur Sénior
 	
 	Julien Imbert
 	Zee Agency - Directeur Référencement
@@ -38,9 +38,8 @@
 	Zee Agency - Intégrateur Web
 	Web : www.maximesevenet.fr
 	
-	Nicolas Riciotti
-	Zee Agency - Graphiste & Développeur multimédia
-	Myspace : www.myspace.com/heypancakemusic
+	Jean Claveau
+	Zee Agency - Ingénieur
 
 	Romy Béthune
 	Zee Agency - Consultante Junior
